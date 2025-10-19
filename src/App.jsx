@@ -1,4 +1,4 @@
-import "bootstrap/dist/css/bootstrap.min.css";
+
 import {useCallback, useEffect, useRef, useState } from "react";
 
 function App() {
